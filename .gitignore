@@ -1,0 +1,14 @@
+/.project
+.vscode
+/SmartCurtainWiFi.ino.esp32.bin
+/WiFiCredentials.h
+/Settings.h
+/sloeber.ino.cpp
+/.settings/
+/spec.d
+/.cproject
+/Release/
+/core
+/libraries
+/Main ESP32-WROOM/
+/ESP32-WROOM/
